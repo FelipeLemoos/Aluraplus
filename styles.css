@@ -144,7 +144,7 @@ body {
 }
 
 .lista__link a:active {
-    color: green;
+    color: yellow;
 }
 
 .rodape__texto {
